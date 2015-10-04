@@ -1,10 +1,14 @@
 {
-    "name": "workflows",
-    "version": "1.0.0",
-    "description": "A project to showcase workflows.",
-    "repository": {
-        "type": "git",
-        "url": "?.git"
-    },
-    "author": "Anil Maharjan"
+  "name": "workflows",
+  "version": "1.0.0",
+  "description": "A project to showcase workflows.",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Anil Maharjan",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
